@@ -9,7 +9,7 @@ export const Navbar = () => {
 
     return <nav className={styles.navbar} id='home'>
         <a href="#home" className={styles.title}>
-            SULTAN S PORTFOLIO
+            SULTAN'S PORTFOLIO
         </a>
         <div className={styles.menu}>
             <img className={styles.menuBtn} 
