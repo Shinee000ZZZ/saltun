@@ -1,0 +1,33 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/Html 5.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/CSS3.png"
+    },
+    {
+        "title": "ReactJS",
+        "imageSrc": "skills/React Native.png"
+    },
+    {
+        "title": "PHP",
+        "imageSrc": "skills/PHP Logo.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/Java.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "skills/Figma.png"
+    },{
+        "title": "Bootstrap",
+        "imageSrc": "skills/Bootstrap.png"
+    },
+    {
+        "title": "GitHub",
+        "imageSrc": "skills/GitHub.png"
+    }
+]
