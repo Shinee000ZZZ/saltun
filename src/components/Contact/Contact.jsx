@@ -7,10 +7,10 @@ export const Contact = () => {
         <div>
             <h2 className={styles.title}>Contact Me</h2>
             <ul className={styles.socials}>
-                <a href="https://www.instagram.com/kesaltunan/" target="_blank"><img src="assets/contact/Instagram.png" alt="" className={styles.ig}/></a>
-                <a href="https://www.tiktok.com/@oshitergantungfyp" target='_blank'><img src="assets/contact/TikTok.png" alt="" className={styles.tiktok} /></a>
-                <a href="https://x.com/OkeShinee" target='_blank'><img src="assets/contact/TwitterX.png" alt="" className={styles.twitter}/></a>
-                <a href="https://github.com/Shinee000ZZZ" target='_blank'><img src="assets/contact/GitHub.png" alt="" className={styles.github}/></a>
+                <a href="https://www.instagram.com/kesaltunan/" target="_blank"><img src="assets/contact/Instagram.png" alt="instaLogo" className={styles.ig}/></a>
+                <a href="https://www.tiktok.com/@oshitergantungfyp" target='_blank'><img src="assets/contact/TikTok.png" alt="tiktokLogo" className={styles.tiktok} /></a>
+                <a href="https://x.com/OkeShinee" target='_blank'><img src="assets/contact/TwitterX.png" alt="twtLogo" className={styles.twitter}/></a>
+                <a href="https://github.com/Shinee000ZZZ" target='_blank'><img src="assets/contact/GitHub.png" alt="githLogo" className={styles.github}/></a>
             </ul>
         </div>
         <div className={styles.copyright}>
