@@ -6,6 +6,7 @@ import { About } from './components/About/About';
 import { Experience } from './components/Experience/Experience';
 import { Projects } from './components/Projects/Projects';
 import { Contact } from './components/Contact/Contact';
+import { getImageUrl } from './utils';
 
 function App() {
   const [showButton, setShowButton] = useState(false);
@@ -40,7 +41,7 @@ function App() {
       <Contact />
       <div className={`${styles.scrollToTopContainer} ${showButton ? styles.show : ''}`}>
         <button onClick={scrollToTop} className={styles.scrollToTop}>
-          <img src="assets/contact/Rocket.png" alt="rocket" />
+          <img src={getImageUrl('contact/roct.png')} alt="rocket" />
         </button>
       </div>
     </div>
