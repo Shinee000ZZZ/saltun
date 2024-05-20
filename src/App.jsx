@@ -40,7 +40,7 @@ function App() {
       <Contact />
       <div className={`${styles.scrollToTopContainer} ${showButton ? styles.show : ''}`}>
         <button onClick={scrollToTop} className={styles.scrollToTop}>
-          <img src="assets/contact/roct.png" alt="" />
+          <img src="assets/contact/roct.png" alt="rocket" />
         </button>
       </div>
     </div>
