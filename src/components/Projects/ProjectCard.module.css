@@ -77,3 +77,10 @@
     color: var(--color-text);
     background: var(--color-primary);
 }
+
+@media screen and (max-width: 830px) {
+    .container {
+        max-width: 340px;
+        margin: 20px;
+    }
+}
