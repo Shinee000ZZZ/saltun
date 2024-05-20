@@ -150,9 +150,10 @@
 @media screen and (max-width: 530px) {
     .heroImg{
         margin-bottom: 70px;
+        margin-top: 40px;
     }
 
     .title{
-        margin-top: 70px;
+        margin-top: 30px;
     }
 }
