@@ -120,6 +120,7 @@
         text-align: center;
         font-size: 45px;
         font-family: Poppins;
+        margin-top: -970px;
     }
 
     .content{
@@ -133,7 +134,7 @@
     .heroImg{
         width: 59%;
         position: relative;
-        margin: 0 auto;
+        margin-top: 100px;
     }
 
     /* saya ingin bottBlur tidak menggeser keluar konten, jadi pas dengan layar tapi tidak dihilangkan */
