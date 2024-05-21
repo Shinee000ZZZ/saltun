@@ -146,7 +146,13 @@
         margin-top: 100px;
         
     }
-}             
+}
+
+@media screen and (max-width: 630px) {
+    .content{
+        top: -80px;
+    }
+}
 
 @media screen and (max-width: 530px) {
     .heroImg{
