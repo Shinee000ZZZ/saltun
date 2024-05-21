@@ -157,4 +157,8 @@
     .title{
         margin-top: 35px;
     }
+
+    .content {
+        top: 0px;
+    }
 }
