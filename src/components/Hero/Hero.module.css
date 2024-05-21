@@ -148,13 +148,6 @@
     }
 }
 
-@media screen and (max-width: 630px) {
-    .content{
-        position: relative;
-        top: -180px;
-    }
-}
-
 @media screen and (max-width: 530px) {
     .heroImg{
         margin-bottom: 70px;
