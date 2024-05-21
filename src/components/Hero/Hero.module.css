@@ -150,6 +150,7 @@
 
 @media screen and (max-width: 630px) {
     .content{
+        position: relative;
         top: -180px;
     }
 }
