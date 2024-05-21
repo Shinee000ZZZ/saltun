@@ -120,13 +120,13 @@
         text-align: center;
         font-size: 45px;
         font-family: Poppins;
-        position: relative;
-        top: -100px;
 
     }
 
     .content{
         align-items: center;
+        position: relative;
+        top: -130px;
     }
 
     .description{
