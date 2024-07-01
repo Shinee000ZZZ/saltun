@@ -10,9 +10,18 @@ export const Hero = () => {
         <p className={styles.description}>
           Fullstack Developer and UI/UX Designer
         </p>
-        <a href="mailto:shineggod@gmail.com" className={styles.contactBtn}>
-          Contact Me!
-        </a>
+        <div className={styles.buttons}>
+          <a href="mailto:shineggod@gmail.com" className={styles.contactBtn}>
+            Contact Me!
+          </a>
+          <a
+            href="/assets/cv/Sultan_CV.pdf"
+            className={styles.contactBtn}
+            download="Sultan_CV.pdf"
+          >
+            Download CV
+          </a>
+        </div>
       </div>
       <img
         className={styles.heroImg}

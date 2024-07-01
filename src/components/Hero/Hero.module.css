@@ -83,6 +83,13 @@
     border: 2px solid var(--color-primary);
 }
 
+.buttons {
+    display: flex;
+    gap: 15px; /* Adjust the spacing between buttons as needed */
+    margin-top: 20px; /* Add some margin at the top if needed */
+}
+
+
 .topBlur{
     position: absolute;
     width: 50vw;
