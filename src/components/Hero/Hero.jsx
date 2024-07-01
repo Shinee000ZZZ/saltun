@@ -15,7 +15,7 @@ export const Hero = () => {
             Contact Me!
           </a>
           <a
-            href="assets/CV_ATS_SultanSM.pdf"
+            href="/assets/cv/CV_ATS_SultanSM.pdf"
             className={styles.contactBtn}
             download="CV_ATS_SultanSM.pdf"
           >
