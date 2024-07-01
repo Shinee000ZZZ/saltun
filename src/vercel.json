@@ -3,8 +3,8 @@
     "builds": [],
     "routes": [
         {
-        "src": "/assets/cv/(.*)",
-        "dest": "/assets/cv/$1"
+        "src": "/cv/(.*)",
+        "dest": "/public/cv/$1"
         },
         {
         "src": "/(.*)",
