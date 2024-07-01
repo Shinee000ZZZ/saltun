@@ -1,17 +1,15 @@
 {
-    "builds": [
-        {
-        "src": "index.html",
-        "use": "@vercel/static-build",
-        "config": {
-            "distDir": "dist"
-        }
-        }
-    ],
+    "version": 2,
+    "builds": [],
     "routes": [
+        {
+        "src": "/assets/cv/(.*)",
+        "dest": "/assets/cv/$1"
+        },
         {
         "src": "/(.*)",
         "dest": "/index.html"
         }
-    ]
+        ]
     }
+    
