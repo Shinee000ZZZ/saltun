@@ -1,33 +1,51 @@
 [
     {
-        "title": "HTML",
-        "imageSrc": "skills/Html 5.png"
+      "title": "HTML",
+      "imageSrc": "skills/Html 5.png",
+      "aos": "fade-right",
+      "aosDelay": 200
     },
     {
-        "title": "CSS",
-        "imageSrc": "skills/CSS3.png"
+      "title": "CSS",
+      "imageSrc": "skills/CSS3.png",
+      "aos": "fade-down",
+      "aosDelay": 200
     },
     {
-        "title": "ReactJS",
-        "imageSrc": "skills/React Native.png"
+      "title": "ReactJS",
+      "imageSrc": "skills/React Native.png",
+      "aos": "fade-left",
+      "aosDelay": 200
     },
     {
-        "title": "PHP",
-        "imageSrc": "skills/PHP Logo.png"
+      "title": "PHP",
+      "imageSrc": "skills/PHP Logo.png",
+      "aos": "fade-right",
+      "aosDelay": 200
     },
     {
-        "title": "Java",
-        "imageSrc": "skills/Java.png"
+      "title": "Java",
+      "imageSrc": "skills/Java.png",
+      "aos": "fade-down",
+      "aosDelay": 200
     },
     {
-        "title": "Figma",
-        "imageSrc": "skills/Figma.png"
-    },{
-        "title": "Bootstrap",
-        "imageSrc": "skills/Bootstrap.png"
+      "title": "Figma",
+      "imageSrc": "skills/Figma.png",
+      "aos": "fade-left",
+      "aosDelay": 200
     },
     {
-        "title": "GitHub",
-        "imageSrc": "skills/GitHub.png"
+      "title": "Bootstrap",
+      "imageSrc": "skills/Bootstrap.png",
+      "aos": "zoom-out",
+      "aosDelay": 200
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/GitHub.png",
+      "aos": "zoom-out",
+      "aosDelay": 200
     }
-]
+  ]
+  

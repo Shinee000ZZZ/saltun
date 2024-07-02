@@ -5,7 +5,9 @@
         "description": "I made this project because I was playing rock paper scissors during class and I was punished",
         "skills": ["HTML", "CSS", "Native JS"],
         "demo": "https://bkg.vercel.app",
-        "source": "https://github.com/Shinee000ZZZ"
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-right",
+        "aosDelay": 200
     },
     {
         "title": "Portfolio",
@@ -13,7 +15,9 @@
         "description": "This is my first project using ReactJS.",
         "skills": ["React", "Figma"],
         "demo": "#about",
-        "source": "https://github.com/Shinee000ZZZ"
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-left",
+        "aosDelay": 200
     },
     {
         "title": "Simple Calculator",
@@ -21,7 +25,9 @@
         "description": "This is first project using PHP.",
         "skills": ["PHP"],
         "demo": "https://saltunpas.000webhostapp.com/",
-        "source": "https://github.com/Shinee000ZZZ"
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-right",
+        "aosDelay": 200
     },
     {
         "title": "Compe Project",
@@ -29,7 +35,9 @@
         "description": "This is a project created for the web frontend competition(we Lose, even ga lolos semifinal jir💀💀).",
         "skills": ["HTML", "Bootstrap", "Native JS"],
         "demo": "https://piringnusantara.netlify.app/",
-        "source": "https://github.com/Shinee000ZZZ"
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-left",
+        "aosDelay": 200
     },
     {
         "title": "Exam Project",
@@ -37,7 +45,9 @@
         "description": "This is a project created for the end of semester assessment.",
         "skills": ["HTML", "CSS", "Native JS"],
         "demo": "https://saltun-stravel.000webhostapp.com/",
-        "source": "https://github.com/Shinee000ZZZ"
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-right",
+        "aosDelay": 200
     },
     {
         "title": "UI Design",
@@ -45,6 +55,8 @@
         "description": "Travel agency website UI design.",
         "skills": ["Figma"],
         "demo": "https://www.uplabs.com/posts/travel-agency-landing-page-904ef8bd-9b5a-4e4d-9b76-a0609914c424",
-        "source": "https://github.com/Shinee000ZZZ"
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-left",
+        "aosDelay": 200
     }
 ]
