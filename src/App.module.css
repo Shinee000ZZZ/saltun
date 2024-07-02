@@ -47,7 +47,7 @@
     }
     
 }
-@media (max-width: 655px){
+@media (max-width: 499px){
     .scrollToTopContainer {
         position: fixed;
         bottom: 20px;
