@@ -35,3 +35,26 @@
 .scrollToTop:hover {
     opacity: 1;
 }
+
+@media (max-width: 655px){
+    .scrollToTopContainer {
+        position: fixed;
+        bottom: 20px;
+        right: 50px;
+        z-index: 1000;
+        transform: translateY(-1000px);
+        transition: transform 0.5s ease-in-out;
+    }
+    
+}
+@media (max-width: 655px){
+    .scrollToTopContainer {
+        position: fixed;
+        bottom: 20px;
+        right: 70px;
+        z-index: 1000;
+        transform: translateY(-1000px);
+        transition: transform 0.5s ease-in-out;
+    }
+    
+}
