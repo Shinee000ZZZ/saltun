@@ -174,5 +174,6 @@
     .heroImg{
         position: relative;
         top: 50px;
+        margin-bottom: 0;
     }
 }
