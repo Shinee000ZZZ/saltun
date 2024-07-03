@@ -169,3 +169,10 @@
         top: 0px;
     }
 }
+
+@media screen and (max-width: 499px) {
+    .heroImg{
+        position: relative;
+        margin-top: 50px;
+    }
+}
