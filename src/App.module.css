@@ -62,7 +62,7 @@ html{
     }
     
 }
-@media (max-width: 499px){
+@media screen and (max-width: 499px){
     .scrollToTopContainer {
         position: fixed;
         bottom: 20px;
@@ -74,6 +74,7 @@ html{
 
     .App{
         width: 150%;
-    }
-    
+    }    
 }
+
+
