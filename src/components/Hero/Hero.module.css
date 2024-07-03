@@ -157,7 +157,7 @@
 
 @media screen and (max-width: 530px) {
     .heroImg{
-        margin-bottom: 70px;
+        margin-bottom: 0px;
         margin-top: 10px;
     }
 
@@ -170,10 +170,3 @@
     }
 }
 
-@media screen and (max-width: 499px) {
-    .heroImg{
-        position: relative;
-        top: 50px;
-        margin-bottom: 0;
-    }
-}
