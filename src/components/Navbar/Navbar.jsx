@@ -13,6 +13,8 @@ export const Navbar = () => {
     });
   }, []);
 
+  const judul = `SULTAN'S PORTFOLIO`;
+
   return (
     <nav className={styles.navbar} id="home">
       <a
@@ -22,7 +24,7 @@ export const Navbar = () => {
         data-aos-anchor-placement="top-bottom"
         data-aos-delay="200"
       >
-        SULTANS PORTFOLIO
+        {judul}
       </a>
       <div className={styles.menu}>
         <img
