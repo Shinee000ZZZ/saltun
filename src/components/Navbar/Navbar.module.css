@@ -18,6 +18,10 @@
     color: var(--color-text);
 }
 
+html{
+    padding: 0;
+}
+
 .menu {
     display: flex;
 }
@@ -105,7 +109,7 @@
 
     .menuOpen{
         display: flex;
-        z-index: 1;
+        z-index: 2;
     }
 
     .title{
