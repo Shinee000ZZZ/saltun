@@ -68,12 +68,12 @@ html{
         bottom: 20px;
         right: 50px;
         z-index: 1000;
-        transform: translateY(-1000px);
+        transform: translateY(-1500px);
         transition: transform 0.5s ease-in-out;
     }
 
     .App{
-        width: 150%;
+        width: 120%;
     }
     
 }
