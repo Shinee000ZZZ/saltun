@@ -13,7 +13,7 @@
         "title": "Portfolio",
         "imageSrc": "projectsss/PortFolio-React.png",
         "description": "This is my first project using ReactJS.",
-        "skills": ["React", "Figma"],
+        "skills": ["ReactJS", "Figma"],
         "demo": "#about",
         "source": "https://github.com/Shinee000ZZZ",
         "aos": "fade-left",
@@ -45,6 +45,16 @@
         "description": "This is a project created for the end of semester assessment.",
         "skills": ["HTML", "CSS", "Native JS"],
         "demo": "https://saltun-stravel.000webhostapp.com/",
+        "source": "https://github.com/Shinee000ZZZ",
+        "aos": "fade-right",
+        "aosDelay": 200
+    },
+    {
+        "title": "Movie Stream Landing Page",
+        "imageSrc": "projectsss/movies.png",
+        "description": "Movie stream landing page using React Js and TMDB API",
+        "skills": ["HTML", "CSS", "ReactJS"],
+        "demo": "https://moviesaltun.vercel.app",
         "source": "https://github.com/Shinee000ZZZ",
         "aos": "fade-right",
         "aosDelay": 200
