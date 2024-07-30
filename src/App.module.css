@@ -41,55 +41,13 @@ html{
     opacity: 1;
 }
 
-@media (max-width: 800px) {
-    .App{
-        width: 500%;
-    }
-}
-
-@media (max-width: 655px){
+@media (max-width: 850px) {
     .scrollToTopContainer {
         position: fixed;
         bottom: 20px;
         right: 50px;
         z-index: 1000;
-        transform: translateY(-1500px);
+        transform: translateY(-3000px);
         transition: transform 0.5s ease-in-out;
     }
-
-    .App{
-        width: 120%;
-    }
-    
 }
-@media screen and (max-width: 499px){
-    .scrollToTopContainer {
-        position: fixed;
-        bottom: 20px;
-        right: 50px;
-        z-index: 1000;
-        transform: translateY(-1900px);
-        transition: transform 0.5s ease-in-out;
-    }
-
-    .App{
-        width: 170%;
-    }    
-}
-
-@media screen and (max-width: 399px){
-    .scrollToTopContainer {
-        position: fixed;
-        bottom: 20px;
-        right: 50px;
-        z-index: 1000;
-        transform: translateY(-1900px);
-        transition: transform 0.5s ease-in-out;
-    }
-
-    .App{
-        width: 190%;
-    }    
-}
-
-

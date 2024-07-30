@@ -118,14 +118,15 @@
     z-index: 0;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 850px) {
     .container {
         flex-direction: column-reverse;
+        align-items: center;
+        margin-top: 150px;
     }
 
     .title {
         text-align: center;
-        margin-top: 250px;
         font-size: 45px;
         font-family: Poppins;
 
@@ -134,7 +135,7 @@
     .content{
         align-items: center;
         position: relative;
-        top: -150px;
+        top: -550px;
     }
 
     .description{
@@ -144,36 +145,13 @@
     .heroImg{
         width: 59%;
         position: relative;
-        margin-top: 500px;
+        margin-top: 20px; 
     }
 
-    /* saya ingin bottBlur tidak menggeser keluar konten, jadi pas dengan layar tapi tidak dihilangkan */
     .bottBlur{
         position: absolute;
         right: 0;
         margin-top: 100px;
         
-    }
-}
-
-@media screen and (max-width: 530px) {
-    .heroImg{
-        margin-bottom: 70px;
-        margin-top: 10px;
-    }
-
-    .title{
-        margin-top: 55px;
-    }
-
-    .content {
-        top: 0px;
-    }
-}
-
-@media screen and (max-width: 499px) {
-    .heroImg{
-        position: relative;
-        top: 50px;
     }
 }
