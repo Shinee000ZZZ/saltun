@@ -6,8 +6,9 @@
     align-items: center;
     justify-content: space-between;
     padding-top: 61px;
+    padding-bottom: 100px;
     z-index: 2;
-    margin: 0 8%;
+    margin: 0 10%;
 }
 
 .title{

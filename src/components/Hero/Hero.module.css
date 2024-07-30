@@ -34,9 +34,9 @@
 
 .heroImg {
     position: absolute;
-    top: 0;
+    z-index: 0;
     right: 0px;
-    top: 75px;
+    top: 0px;
     width: 400px;
     height: auto;
     z-index: 1;

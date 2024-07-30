@@ -2,7 +2,7 @@
 
 html{
     margin: 0 auto;
-    width: 120%;
+    width: 100%;
 }
 
 .App {
@@ -17,7 +17,7 @@ html{
     bottom: 20px;
     right: 20px;
     z-index: 1000;
-    transform: translateY(-1000px);
+    transform: translateY(-2000px);
     transition: transform 0.5s ease-in-out;
 }
 
@@ -68,12 +68,27 @@ html{
         bottom: 20px;
         right: 50px;
         z-index: 1000;
-        transform: translateY(-1500px);
+        transform: translateY(-1900px);
         transition: transform 0.5s ease-in-out;
     }
 
     .App{
-        width: 150%;
+        width: 170%;
+    }    
+}
+
+@media screen and (max-width: 399px){
+    .scrollToTopContainer {
+        position: fixed;
+        bottom: 20px;
+        right: 50px;
+        z-index: 1000;
+        transform: translateY(-1900px);
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .App{
+        width: 190%;
     }    
 }
 
