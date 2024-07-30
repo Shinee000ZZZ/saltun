@@ -50,4 +50,8 @@ html{
         transform: translateY(-3000px);
         transition: transform 0.5s ease-in-out;
     }
+    .App {
+        background-color: var(--color-bg);
+        width: 100%;
+    }
 }

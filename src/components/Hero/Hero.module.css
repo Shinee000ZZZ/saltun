@@ -86,7 +86,7 @@
 .buttons {
     display: flex;
     gap: 15px; /* Adjust the spacing between buttons as needed */
-    margin-top: 20px; /* Add some margin at the top if needed */
+    margin-top: 10px; /* Add some margin at the top if needed */
 }
 
 
@@ -127,7 +127,7 @@
 
     .title {
         text-align: center;
-        font-size: 45px;
+        font-size: 35px;
         font-family: Poppins;
 
     }
@@ -135,7 +135,7 @@
     .content{
         align-items: center;
         position: relative;
-        top: -550px;
+        top: -360px;
     }
 
     .description{
@@ -145,7 +145,7 @@
     .heroImg{
         width: 59%;
         position: relative;
-        margin-top: 20px; 
+        margin-top: -150px; 
     }
 
     .bottBlur{
@@ -153,5 +153,11 @@
         right: 0;
         margin-top: 100px;
         
+    }
+
+    .contactBtn{
+        justify-content: center;
+        margin-top: -20px;
+        font-size: 20px;
     }
 }
